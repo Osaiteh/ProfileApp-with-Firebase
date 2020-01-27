@@ -1,0 +1,7 @@
+{
+  "name": "ProfileApp-with-Firebase",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
